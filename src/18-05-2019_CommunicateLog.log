@@ -1,0 +1,4 @@
+[Sat May 18 15:30:39 AEST 2019] [INFO] | CommunicateLog | : Server is running now
+[Sat May 18 15:30:43 AEST 2019] [INFO] | CommunicateLog | : Client 1 connect, remote socket address is /127.0.0.1:55114
+[Sat May 18 15:30:46 AEST 2019] [INFO] | CommunicateLog | : /127.0.0.1:55114 disconnect
+[Sat May 18 15:30:46 AEST 2019] [INFO] | CommunicateLog | : Resources has been closed
